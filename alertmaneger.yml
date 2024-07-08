@@ -13,5 +13,5 @@ route:
 receivers:
 - name: email
   email_configs:
-          - to: 'priya.p@optit.in'
+          - to: 'priwap11@gmail.com'
             send_resolved: true
